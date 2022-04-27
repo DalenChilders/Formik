@@ -31,16 +31,16 @@ const App = () => {
       >
         <Form>
           <label htmlFor="firstName">First Name</label>
-          <Field id="firstName" name="firstName" placeholder="John" />
+          <Field id="firstName" name="firstName" placeholder="Dalen" />
 
           <label htmlFor="lastName">Last Name</label>
-          <Field id="lastName" name="lastName" placeholder="Doe" />
+          <Field id="lastName" name="lastName" placeholder="Childers" />
 
           <label htmlFor="email">Email</label>
           <Field
             id="email"
             name="email"
-            placeholder="john@acme.com"
+            placeholder="dalenchilders@gmail.com"
             type="email"
           />
 
